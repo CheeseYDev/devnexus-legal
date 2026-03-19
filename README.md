@@ -6,8 +6,8 @@ This repository hosts the official **Terms of Service** and **Privacy Policy** f
 
 | Document | Link |
 |---|---|
-| Terms of Service | [terms.html](./terms.html) |
-| Privacy Policy | [privacy.html](./privacy.html) |
+| Terms of Service | [terms.html](https://bit.ly/devnexustos) |
+| Privacy Policy | [privacy.html](https://bit.ly/devnexusprivacy) |
 
 ---
 
