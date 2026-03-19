@@ -29,8 +29,8 @@ This repository hosts the official **Terms of Service** and **Privacy Policy** f
 
 ## 🔗 Links
 
-- [Terms of Service](./terms.html)
-- [Privacy Policy](./privacy.html)
+- [Terms of Service](https://bit.ly/devnexustos)
+- [Privacy Policy](https://bit.ly/devnexusprivacy)
 
 ---
 
