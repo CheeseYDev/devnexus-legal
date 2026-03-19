@@ -27,6 +27,8 @@ This repository hosts the official **Terms of Service** and **Privacy Policy** f
 
 ---
 
+👉 INVITE NOW: [Invite Link](https://tinyurl.com/invitedevnexus)
+
 ## 🔗 Links
 
 - [Terms of Service](https://tinyurl.com/devnexustos)
